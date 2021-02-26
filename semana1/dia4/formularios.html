@@ -1,38 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
+  </head>
+  <body>
     <main>
-        <form>
+      <form>
+        <div>
+          <label for="input-nombre">Nombre:</label><br />
+          <input type="text" id="input-nombre" />
+        </div>
 
-            <div>
-            <label for="input-nombre">Nombre:</label><br>
-            <input type="text" id="input-nombre">
-            </div>
+        <div>
+          <div>
+            <h4>Genero:</h4>
+          </div>
 
-            <div>
-                <div>
-                    <h4>Genero:</h4>
-           
-                </div>
+          <label for="">Femenino</label>
+          <input type="radio" name="genero" id="femenino" value="femenino" />
+        </div>
 
-                <label for="">Femenino</label>
-                <input type="radio" name="genero" id="femenino" value="femenino">
-            </div>
-            
-            <div>
-                <label for="">Masculino</label>
-                <input type="radio" name="genero" id="masculino" value="masculino">
-            </div>
+        <div>
+          <label for="">Masculino</label>
+          <input type="radio" name="genero" id="masculino" value="masculino" />
+        </div>
 
-            
-        </form>
-        
+        <div>
+          <h4>Cremas Preferidas:</h4>
+        </div>
+
+        <div>
+          <label for="cremas">Mayonesa</label>
+          <input type="checkbox" name="Mayonesa" id="cremas" value="cremas" />
+          <label for="kepchup">kepchup</label>
+          <input type="checkbox" name="Kepchup" id="Kepchup" value="Kepchup" />
+          <label for="Mostasa">Mostasa</label>
+          <input type="checkbox" name="Mostasa" id="Mostasa" value="Kepchup" />
+        </div>
+      </form>
     </main>
-</body>
+  </body>
 </html>
