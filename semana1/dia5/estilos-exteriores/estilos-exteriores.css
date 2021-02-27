@@ -1,0 +1,30 @@
+p{
+    color:seagreen;
+}
+
+/* SINTAXIS CSS
+   selector{
+       propiedad: valor
+   }
+   
+*/
+
+h1{
+    color: blueviolet;
+}
+
+body{
+
+    background-color:honeydew;
+    text-align: center;
+}
+
+.hola-mundo{
+    background-color: green;
+    font-size: 50px;
+}
+
+#lugar{
+    color:red;
+    font-size: 50px;
+}
