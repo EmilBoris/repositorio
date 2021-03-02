@@ -1,0 +1,32 @@
+body{
+  background-color: lightblue;
+}
+
+h1{
+    color: white;
+}
+
+#centrame{
+    
+    text-align: center;
+
+}      
+
+img{
+   
+    border-radius:880px ;
+}
+
+h4{
+    
+}
+
+img:hover{
+text-align: right;
+height: 400px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(53, 94, 230, 0.842);
+}

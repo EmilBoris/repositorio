@@ -1,0 +1,50 @@
+header{
+    background-color: rgba(245, 0, 20, 0.705);
+    text-align: center;
+}
+
+
+
+.fotoperfil{
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 50%;
+}
+
+main{
+    text-align: center;
+}
+
+.fotobaner{
+    width: 750px;
+    height: 400px;
+    border-radius: 5%;
+}
+
+a{
+font-weight: bold;
+font-size: 20px;
+}
+
+.box{
+    display: inline-flex;
+    text-align: center;
+}
+
+.descripcion{
+    max-width: 70%;
+    background-color: rgba(15, 216, 122, 0.829);
+    border-radius: 25%;
+}
+
+.frase{
+    font-weight: bold;
+    background-color: antiquewhite;
+    border-radius: 20%;
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(53, 94, 230, 0.842);
+
+}
