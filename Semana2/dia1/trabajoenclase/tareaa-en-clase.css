@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+.nombre{
+  color: darkred;
+}
+
+.kfc{
+    color: deepskyblue;
+}
+
+.bembos{
+    color: goldenrod;
+}
+
+.chifawo{
+    color: green;
+}
+
+.tia{
+    color: indigo;
+}
+
+.pizza{
+    color:fuchsia;
+}
+
+.musica{
+    font-family:'DotGothic16' ;
+}
+
+.p1{
+    color:green;
+    font-family:cursive;
+}
+
+.p2{
+    color:indigo;
+    font-family: fantasy;
+}
+
+.p3{
+    color:rgb(199, 27, 107);
+    font-family:monospace;
+}
+
+.p4{
+    color: rgb(228, 146, 23);
+    font-family:serif;
+}
+
+.emil{
+    font-style: italic;
+    color:green;
+}
+
+.borris{
+    color:indigo;
+ font-style: oblique;
+}
+
+.obregon{
+    color:rgb(199, 27, 107);
+font-style: inherit;
+}
+
+.huaylla{
+    color: rgb(228, 146, 23);
+font-style:italic;
+}
