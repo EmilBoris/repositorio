@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+#textonegrita{
+ font-weight: bold;
+}
+
+#extoitalica{
+    font-style: italic;
+}
+
+#autor{
+    font-weight:bold;
+}
+
+.estilo-de-letra{
+  font-family:'DotGothic16';
+}
